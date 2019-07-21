@@ -1,0 +1,24 @@
+.header{
+    position: absolute;
+    color: white;
+}
+
+.header a{
+    color:white;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+     
+
+  .headertoggle{
+      transition: 0.7s;
+      background-color:black;
+      color: white;
+  }
+  .headertoggle a{
+      color:white;
+  }
