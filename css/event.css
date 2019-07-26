@@ -259,3 +259,17 @@ z-index: 8;
 img{
   width: 100%;
 }
+#footer{
+  background-color:white;
+  position: relative;
+  height: 100%;
+  margin-top: 0%;
+  clear: both;
+
+}
+.backtotop{
+  text-align-last: end;
+}
+#Contact{
+  text-align: -webkit-center;
+}
